@@ -1,0 +1,12 @@
+header{
+    background-color: black;
+}
+
+.navbar{
+    display: flex;
+    align-self: center;
+}
+
+.imagem{
+    align-items: center;
+}
